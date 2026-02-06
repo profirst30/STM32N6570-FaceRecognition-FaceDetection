@@ -16,11 +16,9 @@ objects.list
 *.bin
 *.hex
 
-# Exception: Keep pre-built binaries where needed
-!Binary/*.bin
-!Binary/*.hex
-!Exercises/project_binaries/*.bin
-!Exercises/project_binaries/*.hex
+# Exception: Keep pre-built FSBL bootloader (critical, cannot be regenerated)
+!embedded/Binary/
+!embedded/Binary/ai_fsbl.hex
 
 # STM32CubeIDE files
 .metadata/
