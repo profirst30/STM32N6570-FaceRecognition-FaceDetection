@@ -1,0 +1,9 @@
+{
+    "Globals": {},
+    "Profiles": {
+        "face_detection": {
+            "memory_pool": "face_detection.mpool",
+            "options": "-O0 --all-buffers-info --mvei --cache-maintenance --Oalt-sched --enable-virtual-mem-pools --Omax-ca-pipe 4 --Ocache-opt --Os --enable-epoch-controller"
+        }
+    }
+}

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>ObjectDet</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+	</buildSpec>
+	<natures>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>STM32Cube_FW_N6/Drivers/STM32N6xx_HAL_Driver/Src/nn_runner.c</name>
+			<type>1</type>
+			<locationURI>PROJECT_LOC/Src/nn_runner.c</locationURI>
+		</link>
+	</linkedResources>
+</projectDescription>

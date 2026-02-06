@@ -1,0 +1,9 @@
+{
+    "Globals": {},
+    "Profiles": {
+        "face_recognition": {
+            "memory_pool": "face_recognition.mpool",
+            "options": "-O0 --all-buffers-info --mvei --cache-maintenance --Oalt-sched --enable-virtual-mem-pools --Omax-ca-pipe 4 --Ocache-opt --Os --enable-epoch-controller --native-float"
+        }
+    }
+}
