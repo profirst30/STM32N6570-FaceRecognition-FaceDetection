@@ -253,7 +253,3 @@ This project contains multiple license terms:
 - **Original project**: This repository is based on [STM32N6-FaceRecognition](https://github.com/PeleAB/STM32N6-FaceRecognition) by [PeleAB](https://github.com/PeleAB)
 - STMicroelectronics for STM32N6 platform and STEdgeAI
 - Original model authors (CenterFace, MobileFaceNet)
-
----
-
-**Built for the embedded AI community**
