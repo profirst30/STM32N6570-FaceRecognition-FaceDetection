@@ -9,7 +9,7 @@
       "executable": "stm32cubeide.exe"
     },
     "stm32edgeai": {
-      "path": "C:/ST/STEdgeAI/2.2/Utilities/windows/stedgeai.exe",
+      "path": "C:/ST/STEdgeAI/3.0/Utilities/windows/stedgeai.exe",
       "description": "STM32 Edge AI tool (stedgeai) executable path",
       "required": true,
       "executable": "stedgeai.exe"

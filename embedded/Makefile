@@ -173,6 +173,7 @@ C_INCLUDES += -IMiddlewares/Camera_Middleware/sensors/imx335
 C_INCLUDES += -IMiddlewares/Camera_Middleware/sensors/vd55g1
 C_INCLUDES += -IMiddlewares/Camera_Middleware/sensors/vd6g
 
+C_INCLUDES += -IModels
 C_INCLUDES += -IInc
 C_INCLUDES += -Idummy_buffer
 C_INCLUDES += -IMiddlewares/lib_vision_models_pp/lib_vision_models_pp/Inc
